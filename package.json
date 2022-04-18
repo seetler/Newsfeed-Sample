@@ -1,0 +1,24 @@
+{
+  "name": "publica",
+  "version": "1.0.0",
+  "description": "Syncs public data and shows them in more meaning ways.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Zeng",
+  "license": "ISC",
+  "dependencies": {
+    "cjs": "0.0.11",
+    "csv-parser": "^3.0.0",
+    "d3": "^7.0.0",
+    "delay": "^5.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "json-sql": "^0.5.0",
+    "mysql": "^2.18.1",
+    "node-schedule": "^2.0.0",
+    "xml2js": "^0.4.23"
+  }
+}
